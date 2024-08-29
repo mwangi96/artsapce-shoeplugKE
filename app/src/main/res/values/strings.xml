@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoePlug</string>
+
+    <!-- New strings for shoes -->
+    <string name="blackairforce1">Black Air Force </string>
+    <string name="whiteairforce2">White Air Force </string>
+    <string name="campus_shoes">Campus Shoes</string>
+
+    <!-- Strings for buttons -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+</resources>
